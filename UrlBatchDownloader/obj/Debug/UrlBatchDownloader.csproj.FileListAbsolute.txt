@@ -1,0 +1,10 @@
+C:\Users\Belltone\source\repos\UrlBatchDownloader\bin\Debug\UrlBatchDownloader.exe.config
+C:\Users\Belltone\source\repos\UrlBatchDownloader\bin\Debug\UrlBatchDownloader.exe
+C:\Users\Belltone\source\repos\UrlBatchDownloader\bin\Debug\UrlBatchDownloader.pdb
+C:\Users\Belltone\source\repos\UrlBatchDownloader\obj\Debug\UrlBatchDownloader.csproj.AssemblyReference.cache
+C:\Users\Belltone\source\repos\UrlBatchDownloader\obj\Debug\UrlBatchDownloader.Form1.resources
+C:\Users\Belltone\source\repos\UrlBatchDownloader\obj\Debug\UrlBatchDownloader.Properties.Resources.resources
+C:\Users\Belltone\source\repos\UrlBatchDownloader\obj\Debug\UrlBatchDownloader.csproj.GenerateResource.cache
+C:\Users\Belltone\source\repos\UrlBatchDownloader\obj\Debug\UrlBatchDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Belltone\source\repos\UrlBatchDownloader\obj\Debug\UrlBatchDownloader.exe
+C:\Users\Belltone\source\repos\UrlBatchDownloader\obj\Debug\UrlBatchDownloader.pdb

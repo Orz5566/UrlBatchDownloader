@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36227.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlBatchDownloader", "UrlBatchDownloader.csproj", "{FEFFA58C-A10F-4190-B29C-B4A1792A8DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEFFA58C-A10F-4190-B29C-B4A1792A8DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFFA58C-A10F-4190-B29C-B4A1792A8DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFFA58C-A10F-4190-B29C-B4A1792A8DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFFA58C-A10F-4190-B29C-B4A1792A8DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A49D0FC5-0249-40D6-A92C-3EC13A904D25}
+	EndGlobalSection
+EndGlobal
